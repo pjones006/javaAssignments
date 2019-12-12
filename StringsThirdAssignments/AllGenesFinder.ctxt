@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.target=AllGenesFinder
+comment1.params=dna
+comment1.target=void\ printAll(java.lang.String)
+comment1.text=\n\ Find\ and\ print\ all\ genes\ in\ a\ dna\ strand.\n\ @param\ \ \ dna\ dna\ strand\ to\ be\ searched\n
+comment10.params=sr
+comment10.target=int\ getLongestGeneLength(edu.duke.StorageResource)
+comment10.text=\n\ Check\ the\ StorageResource\ and\ return\ lenght\ of\ the\ longest\ gene\ stored.\n
+comment2.params=dna
+comment2.target=edu.duke.StorageResource\ storeAll(java.lang.String)
+comment2.text=\n\ Store\ all\ genes\ found\ in\ a\ dna\ strand\ and\ return\ a\ StorageResource\ with\ the\ result.\n\ @param\ \ \ dna\ dna\ strand\ to\ be\ searched\ and\ stored\n\ @return\ \ StorageResource\ object\ with\ found\ genes\ stored\n
+comment3.params=dna\ start
+comment3.target=int\ findStartIndex(java.lang.String,\ int)
+comment3.text=\n\ Find\ index\ of\ start\ codon,\ starting\ search\ from\ a\ given\ position\ in\ dna\ strand.\n\ @param\ \ \ dna\ dna\ strand\ to\ be\ searched\ (should\ be\ in\ uppercase)\n\ @param\ \ \ start\ \ \ start\ index\ from\ which\ dna\ string\ should\ be\ searched\n\ @return\ \ index\ of\ start\ codon,\ from\ a\ start\ position\n
+comment4.params=start\ end
+comment4.target=boolean\ isCorrectGene(int,\ int)
+comment4.text=\n\ Helper\ function\ for\ checking\ if\ start\ and\ end\ indicies\ represents\ correct\ gene\ sequence.\n\ \n\ @param\ \ \ start\ \ \ index\ of\ start\ codon\n\ @param\ \ \ end\ \ \ \ \ index\ of\ end\ codon\n\ @result\ \ true\ if\ number\ of\ elements\ between\ start\ and\ end\ indices\ are\ multiply\ of\ 3\n\ \ \ \ \ \ \ \ \ \ false\ if\ end\ \=\=\ -\ 1\ or\ number\ of\ elements\ not\ a\ multiply\ of\ 3\n
+comment5.params=dna\ start
+comment5.target=int\ findStopIndex(java.lang.String,\ int)
+comment5.text=\n\ Find\ stop\ codon\ of\ correct\ gene,\ starting\ search\ from\ a\ given\ position\ in\ dna\ strand.\n\ @param\ \ \ dna\ dna\ strand\ to\ be\ searched\ (should\ be\ in\ uppercase)\n\ @param\ \ \ start\ \ \ start\ index\ from\ which\ dna\ string\ should\ be\ searched\n\ @return\ \ index\ of\ a\ stop\ codon\ of\ a\ correct\ gene.\ Should\ return\ dna.lenght()\ if\n\ \ \ \ \ \ \ \ \ \ no\ correct\ gene\ is\ found\ in\ dna\ strand\n
+comment6.params=dna
+comment6.target=double\ cgRatio(java.lang.String)
+comment6.text=\n\ Return\ C-G-ratio\ in\ a\ given\ dna\ strand\:\ (count(C)+count(G))/dna.lenght().\n\ \n\ @param\ \ \ dna\ dna\ strand\ to\ be\ processed\n\ @return\ \ C-G-ratio\ in\ a\ given\ dna\ strand\n\ \n
+comment7.params=t
+comment7.target=void\ pl(java.lang.Object)
+comment8.params=sr
+comment8.target=void\ printGenes(edu.duke.StorageResource)
+comment8.text=\n\ Print\ the\ following\ information\:\n\ prints\ all\ the\ Strings\ that\ are\ longer\ than\ 60\ characters\n\ prints\ the\ number\ of\ Strings\ that\ are\ longer\ than\ 60\ characters\n\ prints\ the\ Strings\ whose\ C-G-ratio\ is\ higher\ than\ 0.35\n\ prints\ the\ number\ of\ strings\ whose\ C-G-ratio\ is\ higher\ than\ 0.35\n\ \n\ @param\ \ \ sr\ \ StorageResource\ containing\ genes\n
+comment9.params=dna
+comment9.target=int\ countCtg(java.lang.String)
+comment9.text=\n\ Return\ number\ of\ \ CTG\ codon\ that\ appears\ in\ dna\ strand\n
+numComments=11

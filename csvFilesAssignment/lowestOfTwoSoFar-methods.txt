@@ -1,0 +1,47 @@
+ // This is where we take 2 records and based upon the parameter "small","large" return the largest or smallest TEMP record
+    public CSVRecord getLargeOrSmallOfTwoTemp(CSVRecord currentRow, CSVRecord largeOrSmallSoFar, String largeSmall) {
+        if (largeOrSmallSoFar == null) {
+            largeOrSmallSoFar = currentRow;
+        } 
+        else {
+            if (largeSmall == "large") {
+                double currentTemp = Double.parseDouble(currentRow.get("TemperatureF"));
+                double largestTemp = Double.parseDouble(largeOrSmallSoFar.get("TemperatureF"));       
+                if (currentTemp > largestTemp) {
+                    largeOrSmallSoFar = currentRow;
+                }
+                }
+            if (largeSmall == "small") {
+                double currentTemp = Double.parseDouble(currentRow.get("TemperatureF"));
+                double smallestTemp = Double.parseDouble(largeOrSmallSoFar.get("TemperatureF"));       
+                if (currentTemp < smallestTemp) {
+                    largeOrSmallSoFar = currentRow;
+                }
+            }
+        }
+        return largeOrSmallSoFar;
+    }
+    public CSVRecord getLargeOrSmallOfTwoHumid(CSVRecord currentRow, CSVRecord largeOrSmallSoFar, String largeSmall) {
+        if (largeOrSmallSoFar == null) {
+            largeOrSmallSoFar = currentRow;
+        } 
+        else {
+            if (largeSmall == "large") {
+                print("Checking for largest");
+                int currentHumid = Integer.parseInt(currentRow.get("Humidity"));
+                int largestHumid = Integer.parseInt(largeOrSmallSoFar.get("Humidity"));       
+                if (currentHumid > largestHumid) {
+                    largeOrSmallSoFar = currentRow;
+                }
+                }
+            if (largeSmall == "small") {
+                print("Checking for smallest");
+                int currentHumid = Integer.parseInt(currentRow.get("Humidity"));
+                int smallestHumid = Integer.parseInt(largeOrSmallSoFar.get("Humidity"));       
+                if (currentHumid < smallestHumid) {
+                    largeOrSmallSoFar = currentRow;
+                }
+            }
+        }
+        return largeOrSmallSoFar;
+    }

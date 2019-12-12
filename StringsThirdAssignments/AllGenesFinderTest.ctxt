@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AllGenesFinderTest
+comment0.text=\n\ Unit\ test\ for\ AllGenesFinder\ class.\n\ \n\ @author\ Pawel\ Daniluk\ \n\ @version\ 2015-10-24\n
+comment1.params=
+comment1.target=void\ testFindStartIndex()
+comment2.params=
+comment2.target=void\ testFindStopIndex()
+comment3.params=t
+comment3.target=void\ pl(java.lang.Object)
+comment4.params=
+comment4.target=void\ testPrintAll()
+comment5.params=
+comment5.target=void\ testStoreAll()
+comment6.params=
+comment6.target=void\ testStorageFinder()
+comment7.params=
+comment7.target=void\ testCgRatio()
+comment8.params=
+comment8.target=void\ testCountCtg()
+comment9.params=
+comment9.target=void\ testGetLongestGeneLength()
+numComments=10

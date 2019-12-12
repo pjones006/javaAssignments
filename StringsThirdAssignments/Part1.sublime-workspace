@@ -1,0 +1,525 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hidden",
+				"hiddenIMageWidth"
+			],
+			[
+				"publicimag",
+				"publicImageWidth"
+			],
+			[
+				"res",
+				"restoredImage"
+			],
+			[
+				"re",
+				"restoredImage"
+			],
+			[
+				"com",
+				"combinedImage"
+			],
+			[
+				"doB",
+				"doBlur"
+			],
+			[
+				"doBlue",
+				"doBlueFilter"
+			],
+			[
+				"image",
+				"imageBlue"
+			],
+			[
+				"clear",
+				"clearCanvas"
+			],
+			[
+				"im",
+				"imgCanvas"
+			],
+			[
+				"d",
+				"drawTo"
+			],
+			[
+				"bg",
+				"bgImage"
+			],
+			[
+				"fg",
+				"fgImage"
+			],
+			[
+				"set",
+				"setGreen"
+			],
+			[
+				"r",
+				"right\tfloat"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"gr",
+				"inline-grid\tdisplay"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"A",
+				"Assignment"
+			],
+			[
+				"update_",
+				"update_listname"
+			],
+			[
+				"list",
+				"listid"
+			],
+			[
+				"assign",
+				"Assignment"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"sin",
+				"singlelist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/paul/Desktop/java-programming/steganography/index.html",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// // a gene longer then 9\n//         print(\"A GENE LONGER THEN 9\");\n//         String dna = \"ATGATCTAATTTATGCTGCAACGGTGAAGAATGATCTAATTTATGCTGCAACGGTGAAGA\";\n//         StorageResource genes = getAllGenes(dna);\n//         processGenes(genes);\n        \n//         // no gene longer then 9\n//         print(\"NO GENE LONGER THEN 9\");\n//         dna = \"atgtaabbbcccatgbbbtga\";\n//         genes = getAllGenes(dna);\n//         processGenes(genes);\n        \n//         // cg ratio greater then .35\n//         print(\"CG RATIO OVER .35\");\n//         dna = \"ATGCCCCCCTGA\";\n//         genes = getAllGenes(dna);\n//         processGenes(genes);\n        \n//         // cg ratio lower then .35\n//         print(\"CG LOWER THEN .35\");\n//         dna = \"ATGTAA\";\n//         genes = getAllGenes(dna);\n//         processGenes(genes);",
+			"file": "/home/paul/Desktop/java-programming/steganography/junk.js",
+			"file_size": 752,
+			"file_write_time": 132199751352173854,
+			"settings":
+			{
+				"buffer_size": 812,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "// a gene longer then 9"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"control install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package control",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"Indexing Status"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/paul/Desktop/java-programming/JAVA/perimeter (1)/PerimeterRunner.java",
+		"/home/paul/Desktop/java-programming/JAVA/perimeter_quiz/PerimeterAssignmentRunner.java",
+		"/home/paul/Desktop/java-programming/JAVA/perimeter_quiz.zip",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/picture-in-picture.html",
+		"/home/paul/Desktop/java-programming/steganography/index.html",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/css/styles.css",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/picture-in-picture.js",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/greenscreen-webpage.js",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/image-in-image.js",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/JS-STEGANOGRAPHY.js",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/greenscreen-webpage.html",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/upload-display-gray.js",
+		"/home/paul/Desktop/java-programming/JS-HTML-CSS/upload-display-gray.html",
+		"/home/paul/Desktop/Java-class/greenscreen-webpage.html",
+		"/home/paul/Desktop/Java-class/image-in-image.js",
+		"/home/paul/Desktop/Java-class/greenscreen-webpage.js",
+		"/home/paul/Desktop/Java-class/colorpickerslider.js",
+		"/home/paul/Desktop/Java-class/changepage.js",
+		"/home/paul/Desktop/Java-class/SimpleImage.js",
+		"/home/paul/Desktop/Java-class/upload-display-gray.html",
+		"/home/paul/Desktop/Java-class/css/styles.css",
+		"/home/paul/Desktop/Java-class/filterfun.js",
+		"/home/paul/Desktop/Java-class/filterfun.html",
+		"/home/paul/Desktop/Java-class/junk.html",
+		"/home/paul/Desktop/Java-class/upload-display-gray.js",
+		"/home/paul/Desktop/Java-class/greenscreen-2images.html",
+		"/home/paul/Desktop/Java-class/greenscreen-2images.js",
+		"/home/paul/Desktop/Java-class/colorpickerslider.html",
+		"/home/paul/Desktop/Java-class/changepage.html",
+		"/home/paul/Desktop/Java-class/canvas2.html",
+		"/home/paul/Desktop/Java-class/button.html",
+		"/home/paul/Desktop/Java-class/canvas.html",
+		"/home/paul/Desktop/Java-class/upload-display.js",
+		"/home/paul/Desktop/Java-class/upload-display.html",
+		"/home/paul/Desktop/Java-class/canvas.js",
+		"/home/paul/Desktop/Java-class/canvas2.js",
+		"/home/paul/Desktop/Java-class/css/colorpickerslider.js",
+		"/home/paul/Desktop/Java-class/css/colorpickerslider.html",
+		"/home/paul/Desktop/Java-class/button.js",
+		"/home/paul/Desktop/Java-class/basic-html-code.html",
+		"/home/paul/Desktop/Java-class/css/button.css",
+		"/home/paul/Desktop/Java-class/modify-image-by-thirds.js",
+		"/home/paul/Desktop/Java-class/psj.html",
+		"/home/paul/Desktop/Java-class/junk2.html",
+		"/home/paul/Desktop/Java-class/images-green-screen.js",
+		"/home/paul/Desktop/Java-class/images-thirds-duke-logo-yellow.js",
+		"/home/paul/Desktop/Java-class/images-3-modification.js",
+		"/home/paul/Desktop/Java-class/image-size.js",
+		"/home/paul/Desktop/Java-class/junk.js",
+		"/home/paul/.config/sublime-text-3/Packages/User/JavaScript.sublime-build",
+		"/home/paul/Desktop/Java-class/junk2.js",
+		"/home/paul/.config/sublime-text-3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/home/paul/capstone_demoapp/spec/requests/junk.html.html",
+		"/home/paul/capstone_demoapp/spec/requests/api_developments_spec.rb",
+		"/home/paul/capstone_demoapp/Gemfile",
+		"/home/paul/capstone_demoapp/app/controllers/application_controller.rb",
+		"/home/paul/capstone_demoapp/app/controllers/foos_controller.rb",
+		"/home/paul/capstone_demoapp/config/database.yml",
+		"/home/paul/capstone_demoapp/README.rdoc",
+		"/home/paul/capstone_demoapp/Gemfile.lock",
+		"/home/paul/docker_demo/Dockerfile",
+		"/home/paul/docker_demo/Gemfile",
+		"/home/paul/docker_demo/docker-compose.yml",
+		"/home/paul/docker_demo/config/database.yml",
+		"/home/paul/docker_demo/config/mongoid.yml",
+		"/home/paul/capstone_demoapp/docker-compose.yml",
+		"/home/paul/capstone_demoapp/Rakefile",
+		"/home/paul/capstone_demoapp/config.ru",
+		"/home/paul/capstone_demoapp/Dockerfile",
+		"/home/paul/docker_demo/.env",
+		"/home/paul/docker_demo/Gemfile.lock",
+		"/home/paul/docker_demo/Dockerfile.old",
+		"/home/paul/docker_demo/vnc.sh",
+		"/home/paul/docker_demo/build",
+		"/home/paul/docker_demo/sample-dockerfile",
+		"/home/paul/Desktop/CLEAR-OUT-OLD-SNAPS.sh",
+		"/home/paul/py-scripts/ftp.py",
+		"/home/paul/py-scripts/ftp-gui-client.py",
+		"/home/paul/py-scripts/ftpgui.py",
+		"/home/paul/py-scripts/tk_gui.py",
+		"/home/paul/ftp.py",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/angular-mod5/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/angular-mod5/src/common/common.module.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture52/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture51/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture51/src/public/public.routes.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/coursera-test/restaurant-server/public/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture51/src/restaurant.module.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/coursera-test/restaurant-server/db/development.sqlite3",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture47/SpecRunner.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture47/app.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture47/shoppinglist-component.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture47/shoppingList.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture46/app.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture46/SpecRunner.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture46/shoppinglist.directive.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture46/shoppingList.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture46/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture45/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture45/app.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture45/README.txt",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture45/spec/menucategories.service.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/SpecRunner.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/spec/shoppinglist.controller.spec-v2.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/app.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/spec/shoppinglist.controller.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture44/lib/angular-mocks.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture43/SpecRunner.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture43/src/OddEven.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture43/spec/OddEven.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture43/src/CookieDetector.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture43/spec/CookieDetector.spec.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/JS-testing/SpecRunner.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture42/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture42/css/styles.css",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture42/src/app.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/angular-mod4/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture41/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture41/src/routes.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture40/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture40/src/routes.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture40/src/shoppinglist/item-detail.controller.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture39/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture39/src/routes.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture38/index.html",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture38/src/routes.js",
+		"/home/paul/Desktop/Ruby-on-rails-web/RAILS-ANGULARJS/fullstack-course5-master/examples/Lecture37/index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/paul/Desktop/java-programming/steganography/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/paul/Desktop/java-programming/steganography/junk.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								812
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// a gene longer then 9",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "Part1.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ind",
+				"bin/bundle"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
