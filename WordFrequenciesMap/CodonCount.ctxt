@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CodonCount
+comment0.text=\n\ @author\ Paul\ Jones\n\n
+comment1.params=
+comment1.target=CodonCount()
+comment2.params=start\ dna
+comment2.target=void\ buildCodonMap(int,\ java.lang.String)
+comment2.text=\ Write\ a\ void\ method\ named\ buildCodonMap\ that\ has\ two\ parameters\n\ This\ method\ will\ build\ a\ new\ map\ of\ codons\ mapped\ to\ their\ counts\ from\ the\ string\ dna\n\ position\ start.\n
+comment3.params=
+comment3.target=java.lang.String\ getMostCommonCodon()
+comment3.text=\n\ Write\ a\ method\ named\ getMostCommonCodon\ that\ has\ no\ parameters.\ \n\ This\ method\ returns\ a\ String,\ the\ codon\ in\ a\ reading\ frame\ that\ has\ the\ largest\ count.\ If\ there\ are\n\ several\ such\ codons,\ return\ any\ one\ of\ them.\ This\ method\ assumes\ the\ HashMap\ of\ codons\ to\ counts\ has\ already\ been\ built.\n\ \n
+comment4.params=start\ end
+comment4.target=void\ printCodonCounts(int,\ int)
+comment4.text=Write\ a\ void\ method\ named\ printCodonCounts\ that\ has\ two\ int\ parameters,\n\ start\ and\ end\ .\ This\ method\ prints\ all\ the\ codons\ in\ the\ HashMap\ along\ with\ their\ counts\ if\ their\n\ count\ is\ between\ start\ and\ end\ ,\ inclusive.\n\ \n
+comment5.params=
+comment5.target=void\ tester()
+comment5.text=Write\ a\ tester\ method\ that\ prompts\ the\ user\ for\ a\ file\ that\ contains\ a\ DNA\ strand\n\n
+numComments=6

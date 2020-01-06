@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CaeserBreaker
+comment0.text=\n\ CaessarBreaker\ -\ Class\ used\ to\ break\ a\ caesarcipher\ encrypted\ string\ using\ one\ or\ two\ keys\n\ \n\ @author\ Paul\ Jones\n\ @version\ 12/23/2019\n\ \n\ countLetters\ \ \ \ \ Takes\ a\ string\ and\ counts\ the\ number\ of\ occurancees\ of\ each\ letter\ of\ the\ alphabet\n\ @param\ \ \ \ \ \ \ message\ \ \ \ \ String\ to\ have\ characters\ alpha\ only\ characters\ counters\n\ @return\ \ \ \ \ \ counters\ \ \ \ Integer\ array\ of\ counted\ lettters.\ IE\:\ a\=index\ 0\ ,\ z\ \=\ index\ 25\n\ \n\ maxIndex\ \ \ \ \ \ \ \ \ Returns\ the\ index\ position\ of\ the\ array\ item\ that\ is\ largest\ ,\ Assumes\ E(index\ 4)\ will\ be\ this\ letter.\n\ @param\ \ \ \ \ \ \ values\ \ \ \ \ \ Array\ returned\ from\ countLetters\n\ @return\ \ \ \ \ \ indexPos\ \ \ \ Index\ position\ of\ the\ largest\ value,\ this\ should\ be\ 'E'\n\ \n\ getKey\ \ \ \ \ \ \ \ \ \ \ Get\ the\ key\ used\ to\ enctrypt\ a\ message\n\ @param\ \ \ encrypted\ \ \ \ \ \ \ The\ encrypted\ string\n\ @return\ \ dkey\ \ \ \ \ \ \ \ \ \ \ \ The\ key\ used\ to\ encrypt\ the\ string.\ Calls\ methods\ countLetters\ and\ maxIndex\ to\ figure\ out\ the\ key\n\ \n\ decrypt\ \ \ \ \ \ \ \ \ \ Decrypt\ a\ message\ method\n\ @param\ \ \ encrypted\ \ \ \ \ \ \ The\ ecrypted\ message\n\ @param\ \ \ dkey\ \ \ \ \ \ \ \ \ \ \ \ The\ key\ used\ for\ the\ encryption\n\ @return\ \ decrypted\ \ \ \ \ \ \ The\ decrypted\ message.\ Calls\ cc.encrypted\ method\n\ \n\ decryptTwoKeys\ \ \ Decrypt\ a\ message\ that\ was\ encrypted\ using\ two\ keys\n\ @param\ \ \ encrypted\ \ \ \ \ \ \ The\ encrypted\ message\n\ @return\ \ decrypt\ \ \ \ \ \ \ \ \ The\ decrypted\ message.\ Calls\ methods\ halfOfMessage,\ getKeys\ and\ cc.encryptTwoKeys\n\ \n\ halfOfString\ \ \ \ \ \ \ \ \ \ \ \ \ Takes\ a\ single\ string\ and\ splits\ it\ into\ two\ using\ every\ other\ character.\n\ @param\ \ \ message\ \ \ \ \ \ \ \ \ The\ messsage\ to\ be\ split\n\ @param\ \ \ start\ \ \ \ \ \ \ \ \ \ \ Index\ position\ of\ where\ to\ start\ splitting\ the\ message\ (should\ be\ 0\ or\ 1)\n\ @return\ \ halfOfString\ \ \ \ New\ string\ which\ is\ every\ other\ character\ starting\ from\ 'start'.\n\ \n\ testCountLetters\ \ \ \ \ \ \ \ \ Void\ method\ for\ testing\ countLetters\n\ testHalfOfString\ \ \ \ \ \ \ \ \ Void\ method\ to\ test\ halfOfString\n\ testDecrypt\ \ \ \ \ \ \ \ \ \ \ \ \ \ Void\ method\ to\ test\ decrypt.\ Calls\ cc.encrypt\ to\ encrypt\ message\ first\n\ testDecryptTwoKeys\ \ \ \ \ \ \ Void\ method\ to\ test\ decryptTwoKeys.\ Calls\ cc.encryptTwoKeys\ to\ encrypt\ message\ first\n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment10.params=
+comment10.target=void\ testDecrypt()
+comment11.params=
+comment11.target=void\ testdDecryptTwoKeys()
+comment2.params=message
+comment2.target=int[]\ countLetters(java.lang.String)
+comment3.params=values
+comment3.target=int\ maxIndex(int[])
+comment4.params=encrypted
+comment4.target=int\ getKey(java.lang.String)
+comment5.params=encrypted\ dkey
+comment5.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment6.params=encrypted
+comment6.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment7.params=message\ start
+comment7.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ testCountLetters()
+comment9.params=
+comment9.target=void\ testHalfOfString()
+numComments=12

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment0.text=\n\ CaesarCipher\ -\ Class\ used\ to\ encrypt\ a\ string\ using\ one\ or\ two\ keys\n\ \n\ @author\ \ Paul\ Jones\n\ @version\ 12/20/2019\n\ encrypt\ \ -\ \ \ \ \ \ \ \ \ \ \ Takes\ a\ Single\ string\ and\ encrypts\ it\ with\ using\ a\ key\n\ @param\ \ \ input\ \ \ \ \ \ \ String\ to\ be\ encrytped\n\ @param\ \ \ key\ \ \ \ \ \ \ \ \ Key\ used\ for\ shifting\ alphabet\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ Encrypted\ string\n\ \n\ encryptTwoKeys\ -\ \ \ \ \ Takes\ a\ Single\ string\ and\ encrypts\ it\ with\ using\ two\ keys\n\ @param\ \ \ input\ \ \ \ \ \ \ String\ to\ be\ encrypted\n\ @param\ \ \ key1\ \ \ \ \ \ \ \ First\ key\ used\ for\ shifting\ alphabet\n\ @param\ \ \ key2\ \ \ \ \ \ \ \ Second\ key\ used\ for\ shifting\ alphabet\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ Encrypted\ string\n\ \n\ testEncryptTwoKeys\ \ \ Void\ method\ for\ testing\ encryptTwiKeys\n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment2.params=input\ key
+comment2.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment3.params=input\ key1\ key2
+comment3.target=java.lang.String\ encryptTwoKeys(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=void\ testEncryptTwoKeys()
+comment5.params=
+comment5.target=void\ testDecrypt()
+comment6.params=
+comment6.target=void\ testEncrypt()
+numComments=7

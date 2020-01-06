@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BatchInversions
+comment0.text=\n\ Write\ a\ description\ of\ BatchInversions\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment2.params=inImage
+comment2.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment3.params=
+comment3.target=void\ selectAndConvert()
+comment4.params=
+comment4.target=void\ testInverted()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WordLengths
+comment0.text=\n\ Write\ a\ description\ of\ WordLengths\ here.\n\ \n\ @author\ Paul\ Jones\ \n\ @version\ -\ 12/20/2019\n\ \n\ countWordLengths\ -\ \ \ Updates\ counts[]\ array\ with\ word\ lengths\ of\ all\ words\ in\ the\ file\ passed\ to\ it.\n\ @param\ \ \ resource\ \ \ \ \ \ \ \ The\ file\ of\ words\ to\ be\ counted.\n\ @param\ \ \ counts[]\ \ \ \ \ \ \ \ An\ empty\ array\ that\ will\ be\ populated\ by\ this\ method.The\ index\ is\ also\ the\ word\ length\ in\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ this\ array.\ IE\:\ index\ 3's\ value\ is\ the\ number\ of\ words\ 3\ characters\ long.\ NOTE\:\ The\ first\ and\ last\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ characters\ must\ be\ alpha\ characters\ to\ count\ in\ the\ word\ length.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ indexOfMax\ \ \ \ \ \ \ \ \ \ \ Find\ the\ most\ common\ occuring\ word\ length\ from\ an\ array\n\ @param\ \ \ counts[]\ \ \ \ The\ array\ of\ word\ lengths\n\ @return\ \ max\ \ \ \ \ \ \ \ \ The\ index\ position\ of\ the\ most\ common\ occuring\ word\ length\n\ \n\ testCountWordLengths\ void\ method\ for\ testing\ countWordLengths()\ and\ indexOfMax().\n\ \n\ \n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment2.params=resource\ counts
+comment2.target=void\ countWordLengths(edu.duke.FileResource,\ int[])
+comment3.params=values
+comment3.target=int\ indexOfMax(int[])
+comment4.params=
+comment4.target=void\ testCountWordLengths()
+numComments=5

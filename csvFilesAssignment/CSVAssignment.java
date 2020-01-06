@@ -6,29 +6,29 @@ import java.io.*;
  * 
  * @author (Paul Jones) 
  * @version (2019-12-12)
- * coldestHourInFile -  one parameter, a CSVParser named parser - return CSVRecord with record of coldest TEMP in ONE file
+ * coldestHourInFile() -  one parameter, a CSVParser named parser - return CSVRecord with record of coldest TEMP in ONE file
  * testColdestHourInFile()  - void method for testing coldestHourInFile
  * 
- * fileWithColdestTemperature - no parameters - return string with name of file which has coldest TEMP from MANY files selected.
+ * fileWithColdestTemperature() - no parameters - return string with name of file which has coldest TEMP from MANY files selected.
  * testFileWithColdestTemperature() - void method for testing fileWithColdestTemperature, prints out all TEMP's for the file 
  *                                    with the coldest day.
  *                                    
- * lowestHumidityInFile - one parameter, a CSVParser named parser - return CSVRecord with record of coldest HUMIDITY in ONE file
+ * lowestHumidityInFile() - one parameter, a CSVParser named parser - return CSVRecord with record of coldest HUMIDITY in ONE file
  * testLowestHumidityInFile() - void method for testing lowestHumidityInFile
  * 
- * lowestHumidityInManyFiles - no parameters - This method returns a CSVRecord that has the lowest humidity from MANY files selected.
+ * lowestHumidityInManyFiles() - no parameters - This method returns a CSVRecord that has the lowest humidity from MANY files selected.
  * testLowestHumidityInManyFiles() - void method to print the lowest humidity AND the time the lowest humidity occurred.
  * 
- * averageTemperatureInFile - one parameter, a CSVParser named parser - returns a double that represents the average TEMP in ONE file. 
+ * averageTemperatureInFile() - one parameter, a CSVParser named parser - returns a double that represents the average TEMP in ONE file. 
  * testAverageTemperatureInFile() - void method - Prints the average temperature for the ONE file selected.
  * 
- * averageTemperatureWithHighHumidityInFile - two parameters - a CSVParser named parser and an integer named value. 
+ * averageTemperatureWithHighHumidityInFile() - two parameters - a CSVParser named parser and an integer named value. 
  *                                            returns a double that represents the average temperature of only those 
  *                                            temperatures when the humidity was greater than or equal to value.
  * testAverageTemperatureWithHighHumidityInFile() - void method to test averageTemperatureWithHighHumidityInFile 
  * 
  *                      HELPER Function(s)
- * getLargeOrSmallOfTwo -  4 parameters
+ * getLargeOrSmallOfTwo() -  4 parameters
  *                      CSVRecord currentRow            Current CSV record to test
  *                      CSVRecord largeOrSmallSoFar     largest or smallest record so far - always starts as NULL
  *                      String largeSmall               DO we wants largest or smallest record for selected field

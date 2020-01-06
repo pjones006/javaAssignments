@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment0.text=\n\ Write\ a\ description\ of\ WordPlay\ here.\n\ \n\ @author\ (Paul\ Jones\n\ @version\ (12/17/2019)\n\ \n\ isVowel\ \ \ \ \ \ \ \ \ \ Method\ to\ figure\ out\ if\ the\ character\ is\ a\ vowel\ or\ not.\n\ @param\ \ \ \ \ \ \ \ \ \ \ ch\ \ \ \ \ \ \ \ \ \ The\ character\ to\ be\ tested\n\ @return\ \ \ \ \ \ \ \ \ \ t/f\ \ \ \ \ \ \ \ \ Returns\ true\ of\ false\n\ \n\ replaceVowels\ \ \ \ phrase\ \ \ \ \ \ The\ phrase\ to\ have\ vowels\ replaced\n\ @param\ \ \ \ \ \ \ \ \ \ \ ch\ \ \ \ \ \ \ \ \ \ The\ character\ to\ replace\ the\ vowels\ with\n\ return\ \ \ \ \ \ \ \ \ \ \ newPhrase\ \ \ The\ new\ phrase\ with\ vowels\ replaced\ \n\ \n\ emphasize\ \ \ \ \ \ \ \ Method\ to\ replace\ a\ character\ with\ '*'\ or\ '+'\ depending\ on\ its\ odd/even\ index\ position\ in\ the\ phrase.\n\ @param\ \ \ \ \ \ \ \ \ \ \ phrase\ \ \ \ \ \ The\ phrase\ used\ replacing\ characters.\n\ @param\ \ \ \ \ \ \ \ \ \ \ ch\ \ \ \ \ \ \ \ \ \ The\ character\ to\ have\ replaced.\n\ @return\ \ \ \ \ \ \ \ \ \ newPhrase\ \ \ The\ new\ phrase\ with\ substitutions.\n\ \n\ testIsVowel\ \ \ \ \ \ \ \ \ \ void\ method\ for\ testing\ isVowel\n\ testReplaceVowels\ \ \ \ void\ method\ for\ testing\ replaceVowels\n\ testEmphasize\ \ \ \ \ \ \ \ void\ method\ for\ testing\ emphasize\n\ \n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment2.params=ch
+comment2.target=boolean\ isVowel(java.lang.Character)
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ replaceVowels(java.lang.String,\ java.lang.Character)
+comment4.params=phrase\ ch
+comment4.target=java.lang.String\ emphasize(java.lang.String,\ java.lang.Character)
+comment5.params=
+comment5.target=void\ testIsVowel()
+comment6.params=
+comment6.target=void\ testReplaceVowels()
+comment7.params=
+comment7.target=void\ testEmphasize()
+numComments=8
