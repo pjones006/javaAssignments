@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=QuakeSortInPlace
+comment0.text=\n\ getSmallestMagnitude\ -\ Return\ index\ of\ smallest\ magnitude\ quake\ in\ array.\n\ \ \ \ \ \ @param\ \ QuakeEntry\ array\n\ \ \ \ \ \ @param\ \ Index\ to\ start\ searching\ from\n\ getLargestDepth\ -\ Return\ index\ of\ quake\ with\ largest\ depth\n\ \ \ \ \ \ @param\ \ QuakeEntry\ array\n\ \ \ \ \ \ @param\ \ Index\ to\ start\ searching\ from\n\ sortByMagnitude\ -\ Void\ method\ to\ sort\ a\ QuakeEntry\ array\ by\ its\ magnitude,\ smallest\ to\ largest\n\ sortByLargestDepth\ -\ Void\ method\ to\ sort\ a\ QuakeEntry\ array\ by\ its\ depth,\ from\ largest\ to\ smallest\n\ onePassBubbleSort\ -\ Do\ a\ bubble\ sort\ on\ array,\ puts\ largest\ EQ\ at\ end\ of\ array\n\ \ \ \ \ \ @param\ \ QuakeEntry\ array\n\ \ \ \ \ \ @param\ \ numSorted\ is\ how\ many\ times\ this\ has\ been\ run.\ Should\ run\ array.size()\ -\ 1\n\ sortByMagnitudeWithBubbleSort\ -\ Used\ with\ onePassBubbleSort.\ Each\ time\ run,\ increments\ numSorted.\n\ \ \ \ \ \ @param\ \ QuakeEntry\ array\n\ checkInSortedOrder\ -\ Return\ boolean\ if\ the\ array\ passed\ is\ already\ in\ sorted\ order.\ \n\ \ \ \ \ \ @param\ \ QuakeEntry\ array\n\ sortByMagnitudeWithBubbleSortWithCheck\ -\ Same\ as\ sortByMagnitudeWithBubbleSort\ but\ runs\ checkInSortedOrder\ each\ iteration.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Prints\ how\ many\ passes\ needed\ to\ sort.\n\ sortByMagnitudeWithCheck\ -\ Same\ as\ sortByMagnitude\ but\ runs\ checkInSortedOrder\ each\ iteration.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Prints\ how\ many\ passes\ needed\ to\ sort.\n\ testSort\ -\ Void\ method\ to\ test\ sortByMagnitude\n
+comment1.params=x
+comment1.target=void\ print(java.lang.Object)
+comment10.params=in
+comment10.target=void\ sortByMagnitudeWithBubbleSortWithCheck(java.util.ArrayList)
+comment11.params=
+comment11.target=void\ testSort()
+comment11.text=tester\ method\ to\ use\ in\ BlueJ
+comment2.params=quakes\ from
+comment2.target=int\ getSmallestMagnitude(java.util.ArrayList,\ int)
+comment3.params=quakeData\ from
+comment3.target=int\ getLargestDepth(java.util.ArrayList,\ int)
+comment4.params=quakeData\ numSorted
+comment4.target=void\ onePassBubbleSort(java.util.ArrayList,\ int)
+comment5.params=quakes
+comment5.target=boolean\ checkInSortedOrder(java.util.ArrayList)
+comment6.params=in
+comment6.target=void\ sortByMagnitude(java.util.ArrayList)
+comment7.params=in
+comment7.target=void\ sortByMagnitudeWithCheck(java.util.ArrayList)
+comment8.params=in
+comment8.target=void\ sortByLargestDepth(java.util.ArrayList)
+comment9.params=in
+comment9.target=void\ sortByMagnitudeWithBubbleSort(java.util.ArrayList)
+numComments=12

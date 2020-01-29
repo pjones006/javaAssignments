@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MarkovFour
+comment0.text=\n\ Write\ a\ description\ of\ MarkovOne\ here.\n\ \n\ @author\ Paul\ Jones\n\ @version\ 01/23/2020\n\ @Private\ variables\ \ \ \ \ \ \ \ \ \ \ String\ myText,\ Random\ myRandom\n\ MarkovOne()\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Constructor\n\ setRandom(int\ seed)\ \ \ \ \ \ \ \ \ \ Pre-seed\ RANDOM\ with\ an\ integer\ for\ testing\ purposes.\n\ setTraining(String\ s)\ \ \ \ \ \ \ \ Remove\ trailing\ spaces\ in\ myText\n\ getFollows(String\ key)\ \ \ \ \ \ \ Returns\ a\ String\ array\ of\ all\ characters\ that\ follow\ the\ key\ in\ myText\n\ \n\ getRandomText(int\ numChars)\n\ \ Predict\ the\ next\ character,\ by\ finding\ all\ the\ characters\ that\ follow\ the\ current\ character\ in\ the\ training\ \n\ \ text,\ and\ then\ randomly\ picking\ one\ of\ them\ as\ the\ next\ character.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ SB\ \ sb\ \ \ \ \ \ \ \ \ \ String\ Builder\ array\ to\ hold\ key\ and\ all\ characters\ that\ follow\ it\ in\ myText\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ index\ \ \ \ \ \ \ random\ number\ within\ the\ length\ of\ myText\ -\ 1.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ int\ key\ \ \ \ \ \ \ \ \ the\ character\ in\ myText\ at\ that\ index\ position\n
+comment1.params=seed
+comment1.target=void\ setRandom(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=numChars
+comment3.target=java.lang.String\ getRandomText(int)
+numComments=4
